@@ -129,7 +129,7 @@ MLOps Pipelines • Model versioning • A/B Testing • Monitoring & Alerts
 
 ### 🤝 Let's Connect
 
-📧 **Email:** denzelkkopa95@gmail.com  
+📧 **Email:** adriantorrico126@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/denzel-kkopa](https://linkedin.com/in/denzel-kkopa)  
 🐦 **Twitter:** [@denzel_torrico](https://twitter.com/denzel_torrico)  
 📍 **Location:** Cochabamba, Bolivia 🇧🇴  
